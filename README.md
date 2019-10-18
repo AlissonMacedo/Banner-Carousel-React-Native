@@ -1,5 +1,4 @@
 <h1 align="center">Carousel-React-Native</h1>
-- This app was developed during the course of RocketSeat using react-native.
 
 ## 💻  A screen of demo .
 
